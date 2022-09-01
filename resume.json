@@ -1,0 +1,121 @@
+{
+   "meta":{
+      "theme":"short"
+   },
+   "basics":{
+      "name":"Jemuel Mendoza \"Wel\" Lupo",
+      "label":"Programmer",
+      "picture":"https://avatars.githubusercontent.com/u/108327043?s=400&u=5f2a695bc4bf086b1ab5bda68e8300d07c49f6e1&v=4",
+      "email":"jemuel.lupo@gmail.com",
+      "phone":"+63 (909) 051-1103",
+      "summary":"To obtain new knowledge and skills related to my specialization and apply the \nknowledge and work ethics that I have learned in my college days and past work \nenvironment. I have been working as a Freelance Web Developer and specialize in \nBackend Development using JavaScript mainly",
+      "location":{
+         "address":"Quezon, Philippines",
+         "postalCode":"4322",
+         "city":"Sariaya",
+         "countryCode":"PH",
+         "region":""
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"Jemsukie",
+            "url":"https://github.com/Jemsukie"
+         },
+         {
+            "network":"linkedin",
+            "username":"Jemuel Lupo",
+            "url":"https://www.linkedin.com/in/jemuel-lupo-96312b176/"
+         }
+      ]
+   },
+   "work":[
+      {
+         "company":"Netfluence Software Development",
+         "position":"Junior Web Developer",
+         "startDate":"2021-08-31",
+         "summary":"Developing solutions with HubSpot CRM as a platform.",
+         "highlights":[
+            "Implement automation and and define solutions for clients that are being onboarded by our Customer Success Managers",
+            "Provide assitance to other developers especially to my direct supervisor"
+         ]
+      },
+      {
+         "company":"Netfluence Software Development",
+         "position":"Junior Web Developer",
+         "startDate":"2021-08-31",
+         "summary":"Developing solutions with HubSpot CRM as a platform.",
+         "highlights":[
+            "Implement automation and and define solutions for clients",
+            "Provide assitance to other developers especially to my direct supervisor"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Partido State University, Goa, Philippines",
+         "area":"Information Technology",
+         "studyType":"Bachelor of Science",
+         "endDate":"2021-08-15"
+      }
+   ],
+   "awards":[
+      
+   ],
+   "publications":[
+      
+   ],
+   "skills":[
+      {
+         "name":"Backend Development (Node)",
+         "keywords":[
+            "Node.js",
+            "Typescript",
+            "Javascript",
+            "Serverless framework",
+            "Rest",
+            "GraphQL",
+            "postgreSQL",
+            "redwoodjs",
+            "PHP",
+            "CodeIgniter 4",
+            "HubSpot"
+         ]
+      },
+      {
+         "name":"Web Development",
+         "keywords":[
+            "HTML5",
+            "CSS3",
+            "Bootstrap",
+            "ReactJS",
+            "GraphQL"
+         ]
+      },
+      {
+         "name":"Other Tech-related interests",
+         "keywords":[
+            "Test Project",
+            "Golang",
+            "Clojure"
+         ]
+      }
+   ],
+   "languages":[
+      {
+         "language":"English, Filipino, Sign Language, Bicol"
+      }
+   ],
+   "character references":[
+      {
+         "name":"Josef Roy Advincula",
+         "organization":"Netfluence Software Development",
+         "position":"Development Team Lead"
+      },
+      {
+         "name":"Nicolas Pura",
+         "organization":"Partido State University",
+         "position":"Computer Science Program Director"
+      }
+   ]
+}
